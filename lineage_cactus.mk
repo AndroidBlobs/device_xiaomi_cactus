@@ -17,7 +17,7 @@ PRODUCT_MODEL := Redmi 6A
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 TARGET_VENDOR := xiaomi
 TARGET_VENDOR_PRODUCT_NAME := cactus
-PRODUCT_BUILD_PROP_OVERRIDES += PRIVATE_BUILD_DESC="cactus-user 9 PPR1.180610.011 V10.4.4.0.PCBMIXM release-keys"
+PRODUCT_BUILD_PROP_OVERRIDES += PRIVATE_BUILD_DESC="cactus-user 8.1.0 O11019 V10.3.8.0.OCBFROR release-keys"
 
 # Set BUILD_FINGERPRINT variable to be picked up by both system and vendor build.prop
-BUILD_FINGERPRINT := xiaomi/cactus/cactus:9/PPR1.180610.011/V10.4.4.0.PCBMIXM:user/release-keys
+BUILD_FINGERPRINT := xiaomi/cactus/cactus:8.1.0/O11019/V10.3.8.0.OCBFROR:user/release-keys
